@@ -1,4 +1,4 @@
-# External Data Package
+# SAP Model – Incremental Node version
 
 The Coalesce External Data Package includes:
 
