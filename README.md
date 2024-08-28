@@ -88,3 +88,9 @@ If any of the Source Data options like Stage storage location, Stage name or fil
 Then you can redeploy the Infer Schema node with redeployment behaviour “Create or Replace”.
 
 > 📘 Info
+> 
+
+| Deployment Behavior  | Load Type | Stages Executed |
+|--|--|--|
+| Initial Deployment | ``|Create Table/Transient Table
+| Initial Deployment | Reload| Truncate Target table </br> Create Table/Transient Table
